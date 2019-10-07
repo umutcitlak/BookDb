@@ -12,6 +12,6 @@ bu kadar kitabın verisine nasıl ulaşabiliriz
 kitapları neye göre öne çıkaracağız 
 kitapların satış sayıları gibi istatistiklerine nasıl ulaşabiliriz
 kullanıcı olmalımı 
-kullanıcılardan kitap hakkında punlama yapılması istenmelimijasdjfjasdklfasjklfkasjsdflasfflkjasdflkjasdflaslkdflkaslkasfljkasdskfl
+kullanıcılardan kitap hakkında punlama yapılması istenme
 
 
